@@ -1,0 +1,7 @@
+[package]
+name = "oigrap-raft"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# No external deps — implement from scratch
