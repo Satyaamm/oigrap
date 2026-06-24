@@ -1,6 +1,4 @@
-/target
-**/*.rs.bk
-Cargo.lock
-.env
-*.bin
-*.log
+target/
+.DS_Store
+*.lock~
+**/*.orig
