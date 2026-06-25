@@ -171,6 +171,3 @@ Pull requests are welcome. All PRs require maintainer review and approval before
 
 Alpha. Storage formats and wire protocol are mostly stable but may change before 1.0. Not recommended for production use without thorough testing in your environment.
 
-## License
-
-MIT
